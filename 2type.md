@@ -38,7 +38,6 @@ erDiagram
         varchar телефон
         varchar email
         int id_адреса FK
-        date дата_регистрации
     }
     
     КЛИЕНТ {
@@ -56,7 +55,6 @@ erDiagram
         varchar инн
         varchar кпп
         date дата_регистрации
-        boolean активен
     }
     
     СОТРУДНИК {
