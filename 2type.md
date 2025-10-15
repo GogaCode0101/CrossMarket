@@ -48,13 +48,8 @@ erDiagram
     ПОСТАВЩИК {
         int id_поставщика PK
         varchar название_компании
-        varchar контактное_лицо
-        varchar телефон
-        varchar email
-        int id_адреса FK
         varchar инн
         varchar кпп
-        date дата_регистрации
     }
     
     СОТРУДНИК {
