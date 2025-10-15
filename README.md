@@ -87,8 +87,6 @@ erDiagram
         int id_сотрудника FK
         date дата_заказа
         varchar статус_заказа
-        varchar способ_оплаты
-        varchar способ_доставки
         decimal общая_сумма
         varchar примечания
     }
