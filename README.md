@@ -88,7 +88,6 @@ erDiagram
         date дата_заказа
         varchar статус_заказа
         decimal общая_сумма
-        varchar примечания
     }
     
     ПОЗИЦИЯ_ЗАКАЗА {
