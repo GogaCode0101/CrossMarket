@@ -37,6 +37,7 @@ erDiagram
         varchar отчество
         varchar телефон
         varchar email
+        varchar роль
         int id_адреса FK
     }
     
